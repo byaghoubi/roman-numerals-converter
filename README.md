@@ -17,6 +17,12 @@ A simple, interactive web application that converts numbers to Roman numerals an
 - JavaScript
 - Tailwind CSS
 
+## AI Assistance
+
+ChatGPT was used as a supporting tool during development to clarify JavaScript concepts, discuss edge cases, troubleshoot bugs, and review implementation decisions.
+
+The project was developed iteratively, with a focus on understanding the code, testing the behavior, and making implementation decisions.
+
 ## Live Demo
 
 [View Live Demo][Click Here](https://byaghoubi.github.io/roman-numerals-converter/)
