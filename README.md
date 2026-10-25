@@ -41,5 +41,5 @@ Building this project helped me practice JavaScript fundamentals, input validati
 
 **Benyamin Yaghoubi**
 
-- GitHub: [Your GitHub Profile](https://github.com/byaghoubi)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/benymain-yaghoubi-0184a8426/?trk=public-profile-join-page)
+- GitHub: [GitHub Profile](https://github.com/byaghoubi)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/benymain-yaghoubi-0184a8426/?trk=public-profile-join-page)
